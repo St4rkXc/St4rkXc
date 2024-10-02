@@ -1,7 +1,12 @@
 ### Hi there 👋, I'm Dhiyo
 #### A Student Developer on a Journey
 
-I’m a student at **TI Global Denpasar**, passionate about web development, and constantly expanding my knowledge of coding languages and tools. I made this project just for fun, allowing you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I’m a student at **TI Global Denpasar**, where I’m building a strong foundation in web development, focusing on mastering key technologies like **HTML**, **CSS**, and **JavaScript**. My passion for coding drives me to constantly expand my skill set, whether it’s experimenting with front-end frameworks like **Tailwind** and **Bootstrap**. 
+In addition to my web development journey, I have a background in **UI/UX design**, which helps me create user-friendly, visually appealing interfaces. 
+Currently, I’m learning **React** to enhance my ability to build interactive and scalable web applications, and I’m diving into **PHP** and **Laravel** to strengthen my back-end capabilities.
+Looking ahead, I’m excited to explore the world of **Data Science**, where I can combine my coding skills with data analysis and machine learning to solve complex problems. As the demand for data-driven decision-making grows, I see data science as the next step in expanding my technical expertise and contributing to impactful projects in various fields.
+
+
 
 - 🔭 I’m currently working on **My Portfolio**
 - 🌱 I’m currently learning **React** and **Laravel**
