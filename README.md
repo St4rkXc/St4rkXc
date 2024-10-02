@@ -1,12 +1,9 @@
 ### Hi there 👋, I'm Dhiyo
 #### A Student Developer on a Journey
 
-I’m a student at **TI Global Denpasar**, where I’m building a strong foundation in web development, focusing on mastering key technologies like **HTML**, **CSS**, and **JavaScript**. My passion for coding drives me to constantly expand my skill set, whether it’s experimenting with front-end frameworks like **Tailwind** and **Bootstrap**. 
-In addition to my web development journey, I have a background in **UI/UX design**, which helps me create user-friendly, visually appealing interfaces. 
-Currently, I’m learning **React** to enhance my ability to build interactive and scalable web applications, and I’m diving into **PHP** and **Laravel** to strengthen my back-end capabilities.
-Looking ahead, I’m excited to explore the world of **Data Science**, where I can combine my coding skills with data analysis and machine learning to solve complex problems. As the demand for data-driven decision-making grows, I see data science as the next step in expanding my technical expertise and contributing to impactful projects in various fields.
+I’m a student at **TI Global Denpasar**, focused on building a solid foundation in web development with **HTML**, **CSS**, and **JavaScript**. I’m passionate about coding and continually expanding my skills by working with front-end frameworks like **Tailwind** and **Bootstrap**. My **UI/UX design** background helps me create user-friendly interfaces, and I’m currently learning **React** for building scalable web apps. On the back-end, I’m exploring **PHP** and **Laravel** to strengthen my development capabilities. Looking forward, I’m excited to dive into **Data Science**, where I aim to combine coding with data analysis and machine learning to tackle complex problems and create impactful solutions.
 
-
+---
 
 - 🔭 I’m currently working on **My Portfolio**
 - 🌱 I’m currently learning **React** and **Laravel**
