@@ -6,8 +6,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=500&color=F7F7F7&width=500&height=70&lines=Hi+There!+👋;+I'm+Dhiyo+Wikantara+✨&center=true&vCenter=true" /> <br>
 
-</h1>
 ### A Student Developer on a Journey
+
+</h1>
+
+
 <div >
   <ul style="list-style: none; padding: 0;">
     <li>🎓 <strong>Student at</strong>: <strong>SMK TI Global Denpasar</strong> </li>
