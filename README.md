@@ -9,14 +9,14 @@
 </h1>
 
 
-<div align="center">
+<div align="left">
 
 ### A Student Developer on a Journey
 
 </div>
 
 
-<div align="center">
+<div a>
   <ul style="list-style: none; padding: 0;">
     <li>🎓 <strong>Student at</strong>: <strong>SMK TI Global Denpasar</strong> </li>
     <li>💻 <strong>Passionate about</strong>: Coding with <strong>Tailwind</strong> and <strong>Bootstrap</strong></li>
@@ -66,14 +66,6 @@
 ### 🔥Stats🔥
 
 <div>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
