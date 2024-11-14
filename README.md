@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <ul style="list-style-type: none; padding: 0;">
+  <ul style="list-style: none; padding: 0;">
     <li>🎓 <strong>Student at</strong>: <strong>SMK TI Global Denpasar</strong> </li>
     <li>💻 <strong>Passionate about</strong>: Coding with <strong>Tailwind</strong> and <strong>Bootstrap</strong></li>
     <li>🎨 <strong>UI/UX Design</strong> enthusiast Creating user-friendly interfaces</li>
