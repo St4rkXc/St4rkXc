@@ -1,3 +1,5 @@
+![Koding Image](Koding.jpg)
+
 
 </div>
 <h1 align="center">
