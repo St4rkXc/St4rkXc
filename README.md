@@ -1,15 +1,18 @@
+
+</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=500&color=F7F7F7&width=500&height=70&lines=Hi+There!+👋;+I'm+Dhiyo+Wikantara+✨&center=true&vCenter=true" />
+
+</h1>
+
 <div align="center">
 
-# Hi there ✨, I'm Dhiyo
-#### A Student Developer on a Journey
-
----
+### A Student Developer on a Journey
 
 </div>
 
 I’m a student at **TI Global Denpasar**, building a foundation in web development with **HTML**, **CSS**, and **JavaScript**. I’m passionate about coding and expanding my skills with frameworks like **Tailwind** and **Bootstrap**. My **UI/UX design** background helps me create user-friendly interfaces, and I’m learning **React** for scalable web apps. On the back-end, I’m exploring **PHP** and **Laravel**. I’m excited to dive into **Data Science** to blend coding with data analysis and machine learning for impactful solutions.
 
-##### Connect with me:
 <div align="left">
 
 [![Behance](https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/dhiyolawe)
@@ -21,32 +24,51 @@ I’m a student at **TI Global Denpasar**, building a foundation in web developm
 
 ---
 
-### 💫 About me
-- 🔭 I’m currently working on **My Portfolio**
-- 🌱 I’m currently learning **React** and **Laravel**
-- 💼 I have experience in **HTML, CSS, JavaScript, Python**, and **UI/UX Design**
-- 🚀 Using frameworks like **Bootstrap** and **Tailwind**
+<h3 align="center">💫 About me</h3>
+
+<div align="center">
+
+ 🔭 I’m currently working on **My Portfolio**
+
+ 🌱 I’m currently learning **React** and **Laravel**
+
+💼 I have experience in **HTML, CSS, JavaScript, Python**, and **UI/UX Design**
+
+ 🚀 Using frameworks like **Bootstrap** and **Tailwind**
+
+<div>
+
 
 ---
 
 <div align="center">
 
 ### 💻 Tools & Technologies
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,html,css,tailwind,bootstrap,js,react" />
+<br>
+<br>
+<img src="https://skillicons.dev/icons?i=laravel,ps,ai,figma,arduino" />
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" alt="Figma" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" alt="VSCode" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeillustrator.svg" alt="Illustrator" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobephotoshop.svg" alt="Photoshop" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobelightroom.svg" alt="Lightroom" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/framer.svg" alt="Framer" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" alt="Tableau" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/arduino.svg" alt="Arduino" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/daisyui.svg" alt="DaisyUI" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laragon.svg" alt="Laragon" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" alt="Laravel" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/miro.svg" alt="Miro" width="50" height="50">
+</div>
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
 
+</div>
 
+---
+
+<div align="center">
+
+### 🔥Stats🔥
+
+<div>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
