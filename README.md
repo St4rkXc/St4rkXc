@@ -7,9 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=500&color=F7F7F7&width=500&height=70&lines=Hi+There!+👋;+I'm+Dhiyo+Wikantara+✨&center=true&vCenter=true" />
 
 </h1>
-
-
-<div align="left">
+<div align="center">
 
 ### A Student Developer on a Journey
 
@@ -29,7 +27,7 @@
 </div>
 
 
-<div align="center">
+<div align="left">
 
 [![Behance](https://img.shields.io/badge/Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/dhiyolawe)
 [![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhios.ntz)
