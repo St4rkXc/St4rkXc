@@ -45,7 +45,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,html,css,tailwind,bootstrap,js,react" />
 <br>
 <br>
-<img src="https://skillicons.dev/icons?i=laravel,ps,ai,figma,arduino,vue" />
+<img src="https://skillicons.dev/icons?i=laravel,ps,ai,figma,arduino,vue,phpstorm,webstorm" />
 
 </div>
 
