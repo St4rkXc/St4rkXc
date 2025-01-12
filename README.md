@@ -6,20 +6,20 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=500&color=F7F7F7&width=500&height=70&lines=Hi+There!+👋;+I'm+Dhiyo+Wikantara+✨&center=true&vCenter=true" /> <br>
 
-### A Student Developer on a Journey    
+## A Student Developer on a Journey    
     
 </h1>
 
 
     
 <div>
-  - <p>🎓 <strong>Student at</strong>: <strong>SMK TI Global Denpasar</strong></p>
-  <p>💻 <strong>Passionate about</strong>: Coding with <strong>Tailwind</strong> and <strong>Bootstrap</strong></p>
-  <p>🎨 <strong>UI/UX Design</strong> enthusiast creating user-friendly interfaces</p>
-  <p>🌿 <strong>Currently learning</strong>: <strong>React</strong> for scalable web apps</p>
-  <p>🔧 <strong>Exploring</strong>: <strong>PHP</strong> and <strong>Laravel</strong> for back-end development</p>
-  <p>📊 <strong>Excited about</strong>: <strong>Data Science</strong>, merging coding with data analysis and machine learning</p>
-  <p>🤖 <strong>Hobby</strong>: Passionate about <strong>Robotics</strong></p>
+    <p>🎓 <strong>Student at</strong>: <strong>SMK TI Global Denpasar</strong></p>
+      <p>💻 <strong>Passionate about</strong>: Coding with <strong>Tailwind</strong> and <strong>Bootstrap</strong></p>
+      <p>🎨 <strong>UI/UX Design</strong> enthusiast creating user-friendly interfaces</p>
+      <p>🌿 <strong>Currently learning</strong>: <strong>React</strong> for scalable web apps</p>
+      <p>🔧 <strong>Exploring</strong>: <strong>PHP</strong> and <strong>Laravel</strong> for back-end development</p>
+      <p>📊 <strong>Excited about</strong>: <strong>Data Science</strong>, merging coding with data analysis and machine learning</p>
+      <p>🤖 <strong>Hobby</strong>: Passionate about <strong>Robotics</strong></p>
 </div>
 
 
