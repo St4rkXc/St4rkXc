@@ -16,7 +16,7 @@
     <p>🎓 <strong>Student at</strong>: <strong>SMK TI Global Denpasar</strong></p>
       <p>💻 <strong>Passionate about</strong>: Coding with <strong>Tailwind</strong> and <strong>Bootstrap</strong></p>
       <p>🎨 <strong>UI/UX Design</strong> enthusiast creating user-friendly interfaces</p>
-      <p>🌿 <strong>Currently learning</strong>: <strong>React</strong> for scalable web apps</p>
+      <p>🌿 <strong>Currently learning</strong>: <strong>Vue</strong> for scalable web apps</p>
       <p>🔧 <strong>Exploring</strong>: <strong>PHP</strong> and <strong>Laravel</strong> for back-end development</p>
       <p>📊 <strong>Excited about</strong>: <strong>Data Science</strong>, merging coding with data analysis and machine learning</p>
       <p>🤖 <strong>Hobby</strong>: Passionate about <strong>Robotics</strong></p>
