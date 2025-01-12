@@ -13,7 +13,7 @@
 
     
 <div>
-  <p>🎓 <strong>Student at</strong>: <strong>SMK TI Global Denpasar</strong></p>
+  - <p>🎓 <strong>Student at</strong>: <strong>SMK TI Global Denpasar</strong></p>
   <p>💻 <strong>Passionate about</strong>: Coding with <strong>Tailwind</strong> and <strong>Bootstrap</strong></p>
   <p>🎨 <strong>UI/UX Design</strong> enthusiast creating user-friendly interfaces</p>
   <p>🌿 <strong>Currently learning</strong>: <strong>React</strong> for scalable web apps</p>
