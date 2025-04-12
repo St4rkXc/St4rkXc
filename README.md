@@ -41,8 +41,7 @@
 
 ### 💻 Tools & Technologies
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,html,css,tailwind,bootstrap,js,react" />
-<br>
+<img src="https://skillicons.dev/icons?i=git,github,html,css,tailwind,bootstrap,js,ts,pnpm,pinia,firebase" />
 <br>
 <img src="https://skillicons.dev/icons?i=laravel,ps,ai,figma,arduino,vue,phpstorm,webstorm" />
 
@@ -58,8 +57,8 @@
 <div>
 <br>
 <div align=center>
-  <img width=390 align=center src="https://github-readme-streak-stats-salesp07.vercel.app/?user=st4rkxc&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img height=250 alignt=center src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=st4rkxc&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=480 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=st4rkxc&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=st4rkxc&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
