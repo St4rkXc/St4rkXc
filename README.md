@@ -1,6 +1,6 @@
 # Hi there, I'm Dhiyo Wikantara 👋
 
-### 🚀 Student Developer & UI/UX Enthusiast
+### 🚀 Frontend Developer & UX Designer
 Passionate about building seamless digital experiences. Based in Denpasar, currently honing my skills at **SMK TI Global**.
 
 ---
