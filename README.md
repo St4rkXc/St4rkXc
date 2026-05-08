@@ -1,12 +1,12 @@
 # Hi there, I'm Dhiyo Wikantara 👋
 
 ### 🚀 Frontend Developer & UX Designer
-Passionate about building seamless digital experiences. Based in Denpasar, currently honing my skills at **SMK TI Global**.
+Passionate about building seamless digital experiences. Based in Denpasar, currently honing my skills at **Telkom University**.
 
 ---
 
 ### 📌 About Me
-- 🎓 **Education:** Student at SMK TI Global Denpasar.
+- 🎓 **Education:** Student at Telkom University.
 - 🎨 **Design:** UI/UX Enthusiast with a focus on user-friendly interfaces.
 - 🌿 **Frontend:** Currently mastering **Vue.js** for scalable web apps.
 - 🔧 **Backend:** Exploring **PHP** and **Laravel** ecosystem.
